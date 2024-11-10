@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2  
 
-      - name: Set up Python environment
+      - name: Set up Python hassanandgad
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
